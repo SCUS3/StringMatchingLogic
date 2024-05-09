@@ -1,0 +1,74 @@
+{
+  "resume": {
+    "fullName": "Jane Doe",
+    "contactInfo": {
+      "email": "jane.doe@example.com",
+      "phone": "+1-234-567-8901",
+      "address": "1234 Maple Street, Cityville, State, 12345",
+      "linkedin": "https://www.linkedin.com/in/janedoe",
+      "github": "https://github.com/janedoe"
+    },
+    "objective": "Experienced software engineer seeking to leverage extensive background in software development and engineering to contribute to the success of a forward-thinking company.",
+    "education": [
+      {
+        "institution": "State University",
+        "degree": "Bachelor of Science in Computer Science",
+        "graduationYear": 2020,
+        "location": "Cityville, State",
+        "gpa": "3.8/4.0"
+      }
+    ],
+    "workExperience": [
+      {
+        "jobTitle": "Senior Software Engineer",
+        "company": "Tech Solutions Inc.",
+        "duration": "June 2020 - Present",
+        "location": "Cityville, State",
+        "responsibilities": [
+          "Lead the development of a major project involving 10+ team members.",
+          "Design and implement new features and optimize existing ones from controller-level to UI.",
+          "Vigorously lead testing and debugging processes."
+        ]
+      },
+      {
+        "jobTitle": "Software Engineer Intern",
+        "company": "Innovative Tech Ltd.",
+        "duration": "May 2018 - August 2019",
+        "location": "Techtown, State",
+        "responsibilities": [
+          "Assisted in the development of client-side applications.",
+          "Participated in weekly product design meetings, providing input on product features.",
+          "Contributed to the improvement of existing software by optimizing algorithms and enhancing user interface designs."
+        ]
+      }
+    ],
+    "skills": ["Python", "Java", "JavaScript", "React", "Node.js", "SQL"],
+    "certifications": [
+      {
+        "title": "Certified Scrum Master",
+        "issuingOrganization": "Scrum Alliance",
+        "dateIssued": "July 2021",
+        "expirationDate": "July 2024",
+        "credentialID": "1234567890"
+      }
+    ],
+    "projects": [
+      {
+        "projectName": "Personal Portfolio Website",
+        "description": "Developed a personal website to showcase my software projects and technical blogs.",
+        "technologiesUsed": ["HTML", "CSS", "JavaScript"],
+        "link": "http://www.janedoeportfolio.com"
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native"
+      },
+      {
+        "language": "Spanish",
+        "fluency": "Intermediate"
+      }
+    ]
+  }
+}

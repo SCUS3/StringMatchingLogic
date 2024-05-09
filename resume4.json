@@ -1,0 +1,31 @@
+{
+    "resume": {
+      "skills": ["Python", "Java", "React", "AWS", "Docker"],
+      "workExperience": [
+        {
+          "jobTitle": "Senior Software Engineer",
+          "company": "ABC Company",
+          "startDate": "2018-01-01",
+          "endDate": "2021-12-31"
+        },
+        {
+          "jobTitle": "Software Engineer Intern",
+          "company": "XYZ Corporation",
+          "startDate": "2017-06-01",
+          "endDate": "2017-08-31"
+        },
+        {
+          "jobTitle": "Data Analyst",
+          "company": "DEF Enterprises",
+          "startDate": "2016-01-01",
+          "endDate": "2016-12-31"
+        },
+        {
+          "jobTitle": "Frontend Developer",
+          "company": "GHI Inc.",
+          "startDate": "2015-01-01",
+          "endDate": "2015-12-31"
+        }
+      ]
+    }
+  }
